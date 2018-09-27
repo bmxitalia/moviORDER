@@ -1,0 +1,46 @@
+.alert {
+	padding: 1.5em;
+    color: white;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    display: none;
+}
+
+.imgcontainer {
+	text-align: center;
+	margin: 24px 0 12px 0;
+}
+
+.avatar {
+	width: 40%;
+	height: 40%;
+	border-radius: 7px;
+}
+
+#password {
+	border-top: none;
+	margin-bottom: 0.5em;
+}
+
+input {
+	width: 100%;
+    padding: 30px 20px;
+    margin: 0;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    float: left;
+    border-width: 1px 0px 1px 0px;
+    border-style: solid;
+    border-color: white;
+    box-sizing: border-box;
+}
+
+.button {
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    width: 90%;
+}
+
+

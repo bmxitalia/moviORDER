@@ -1,0 +1,51 @@
+button {
+	font-size: 1em;
+}
+
+label {
+	color: white;
+}
+
+#selectQta {
+    width: 15%;
+}
+
+#articleDesc {
+	text-align:center;
+	color: white;
+    padding: 1.17em;
+    background-color: #275D71;
+    margin: 0;
+}
+
+#qta {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 0.5em;
+}
+
+#not {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 0.5em;
+}
+
+#note {
+	display: block;
+	margin: auto;
+	resize: none;
+	margin-top: 0.5em;
+	font-size: 70%;
+	width: 90%;
+}
+
+#infoButton {
+	display: block;
+	margin: auto;
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+}
+
+#footer {
+	text-align: center;
+}

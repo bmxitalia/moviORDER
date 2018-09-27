@@ -1,0 +1,1879 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.28)  30 JUL 2018 17:39
+entering extended mode
+**./ManualeUtente.tex
+(ManualeUtente.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+(../LatexLayout/global.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(../LatexLayout/uses.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphbox\graphbox.sty"
+Package: graphbox 2014/08/31 v1.0 extension for graphicx to adjust containing b
+ox
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\Gin@box@box=\box26
+\Gin@box@width=\skip43
+\Gin@box@height=\skip44
+\Gin@box@raise=\skip45
+\Gin@box@hspace=\skip46
+\Gin@box@bwidth=\skip47
+\Gin@box@bheight=\skip48
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen113
+\lightrulewidth=\dimen114
+\cmidrulewidth=\dimen115
+\belowrulesep=\dimen116
+\belowbottomsep=\dimen117
+\aboverulesep=\dimen118
+\abovetopsep=\dimen119
+\cmidrulesep=\dimen120
+\cmidrulekern=\dimen121
+\defaultaddspace=\dimen122
+\@cmidla=\count90
+\@cmidlb=\count91
+\@aboverulesep=\dimen123
+\@belowrulesep=\dimen124
+\@thisruleclass=\count92
+\@lastruleclass=\count93
+\@thisrulewidth=\dimen125
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/11/03 3.15 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/11/03 3.15 Babel common definitions
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
+\babel@savecnt=\count94
+\U@D=\dimen126
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-italian\italian.ldf"
+Language: italian 2015/03/26 v1.3n Italian support from the babel system
+\it@lettering=\count95
+\it@doublequoteactive=\count96
+\it@ISOcompliance=\count97
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count98
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen127
+\captionmargin@=\dimen128
+\captionwidth=\dimen129
+\caption@tempdima=\dimen130
+\caption@indent=\dimen131
+\caption@parindent=\dimen132
+\caption@hangindent=\dimen133
+)
+\c@ContinuedFloat=\count99
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box28
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen134
+\ttl@minus=\dimen135
+\ttl@toksa=\toks18
+\titlewidth=\dimen136
+\titlewidthlast=\dimen137
+\titlewidthfirst=\dimen138
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks19
+\float@box=\box29
+\@float@everytoks=\toks20
+\@floatcapt=\box30
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen139
+\Hy@linkcounter=\count101
+\Hy@pagecounter=\count102
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count103
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count104
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen140
+\Fld@menulength=\count105
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring ON on input line 6376.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count106
+\c@Item=\count107
+\c@Hfootnote=\count108
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count109
+\c@bookmark@seq@number=\count110
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count111
+\LTcapwidth=\dimen143
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count112
+\LT@rows=\count113
+\c@LT@tables=\count114
+\c@LT@chunks=\count115
+\LT@p@ftn=\toks21
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count116
+\multirow@dima=\skip57
+\bigstrutjot=\dimen144
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen145
+\extrarowheight=\dimen146
+\NC@list=\toks22
+\extratabsurround=\skip58
+\backup@length=\skip59
+)
+\everycr=\toks23
+\minrowclearance=\skip60
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count117
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\changepage\changepage.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count118
+\cp@tempcnt=\count119
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count120
+\lst@gtempboxa=\box35
+\lst@token=\toks24
+\lst@length=\count121
+\lst@currlwidth=\dimen147
+\lst@column=\count122
+\lst@pos=\count123
+\lst@lostspace=\dimen148
+\lst@width=\dimen149
+\lst@newlines=\count124
+\lst@lineno=\count125
+\lst@maxwidth=\dimen150
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count126
+\lst@skipnumbers=\count127
+\lst@framebox=\box36
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\makecell\makecell.sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen151
+\c@nlinenum=\count128
+\TeXr@lab=\toks25
+)
+(../LatexLayout/styles.tex
+Package hyperref Info: Option `colorlinks' set `true' on input line 7.
+
+! Undefined control sequence.
+\ps@plain ->\let \f@nch@gbl \relax  \fancyhdr 
+                                              {} \par \lhead {\GroupName \\ ...
+l.24 \pagestyle{plain}
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (../LatexLayout/constants.tex) (../LatexLayout/functions.tex)
+(../LatexLayout/templates/frontpage.tex)
+(../LatexLayout/templates/changelog.tex)) (res/local.tex)
+(res/listings_styles.tex) (ManualeUtente.aux)
+\openout1 = `ManualeUtente.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen152
+\scratchbox=\box37
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen153
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks27
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
+* v-part:(T,H,B)=(72.26999pt, 664.37186pt, 108.405pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=489.10287pt
+* \textheight=664.37186pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-37.0pt
+* \headheight=20.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \it@ocap on input line 10.
+LaTeX Info: Redefining \it@ccap on input line 10.
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 10.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box38
+Package hyperref Info: Link coloring ON on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count135
+)
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
+
+(ManualeUtente.out) (ManualeUtente.out)
+\@outlinefile=\write3
+\openout3 = `ManualeUtente.out'.
+
+\c@lstlisting=\count136
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(113.81102pt, 629.82918pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=629.82918pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-3.45897pt
+* \headheight=20.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<../LatexLayout/moviORDER.png, id=91, 1003.75pt x 1003.75pt>
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 14. o
+n input line 14.
+Package pdftex.def Info: Requested size: 200.74644pt x 200.74644pt on input lin
+e 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+ [1
+
+
+{C:/Users/tomma/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../LatexLay
+out/moviORDER.png>]
+(ManualeUtente.toc)
+\tf@toc=\write4
+\openout4 = `ManualeUtente.toc'.
+
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 	\newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package Fancyhdr Warning: \headheight is too small (20.0pt): 
+ Make it at least 25.2842pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 17. o
+n input line 17.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+17.
+
+Package Fancyhdr Warning: \footskip is too small (30.0pt): 
+ Make it at least 30.11119pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2
+
+] (ManualeUtente.lof)
+\tf@lof=\write5
+\openout5 = `ManualeUtente.lof'.
+
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 	\newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 20. o
+n input line 20.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+20.
+[3] (ManualeUtente.lot)
+\tf@lot=\write6
+\openout6 = `ManualeUtente.lot'.
+
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 	\newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 23. o
+n input line 23.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+23.
+[4] (sections/introduzione.tex)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 	\newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 26. o
+n input line 26.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+26.
+[5] (sections/istruzioni.tex)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 	\newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 29. o
+n input line 29.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+29.
+[6] (sections/manuale.tex
+<./img/login.jpg, id=185, 1084.05pt x 2288.55pt>
+File: ./img/login.jpg Graphic file (type jpg)
+<use ./img/login.jpg>
+Package pdftex.def Info: ./img/login.jpg  used on input line 7. on input line 7
+.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 7.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 	\item \textbf
+                   {Username e password non inserite}: se il bottone viene p...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 26. o
+n input line 26.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+26.
+[7 <./img/login.jpg>]
+<./img/erroreUsr.jpg, id=192, 1084.05pt x 2288.55pt>
+File: ./img/erroreUsr.jpg Graphic file (type jpg)
+<use ./img/erroreUsr.jpg>
+Package pdftex.def Info: ./img/erroreUsr.jpg  used on input line 34. on input l
+ine 34.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 34.
+<./img/errorePwd.jpg, id=193, 1084.05pt x 2288.55pt>
+File: ./img/errorePwd.jpg Graphic file (type jpg)
+<use ./img/errorePwd.jpg>
+Package pdftex.def Info: ./img/errorePwd.jpg  used on input line 35. on input l
+ine 35.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 35.
+<./img/erroreIns.jpg, id=194, 1084.05pt x 2288.55pt>
+File: ./img/erroreIns.jpg Graphic file (type jpg)
+<use ./img/erroreIns.jpg>
+Package pdftex.def Info: ./img/erroreIns.jpg  used on input line 36. on input l
+ine 36.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 36.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 42. o
+n input line 42.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+42.
+[8 <./img/erroreUsr.jpg> <./img/errorePwd.jpg> <./img/erroreIns.jpg>]
+<./img/homepage.jpg, id=202, 1084.05pt x 2288.55pt>
+File: ./img/homepage.jpg Graphic file (type jpg)
+<use ./img/homepage.jpg>
+Package pdftex.def Info: ./img/homepage.jpg  used on input line 48. on input li
+ne 48.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 48.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 	\end{enumerate}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 69. o
+n input line 69.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+69.
+[9 <./img/homepage.jpg>]
+<./img/vuoto.jpg, id=211, 1084.05pt x 2288.55pt>
+File: ./img/vuoto.jpg Graphic file (type jpg)
+<use ./img/vuoto.jpg>
+Package pdftex.def Info: ./img/vuoto.jpg  used on input line 76. on input line 
+76.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 76.
+<./img/tutorial.jpg, id=212, 1084.05pt x 2288.55pt>
+File: ./img/tutorial.jpg Graphic file (type jpg)
+<use ./img/tutorial.jpg>
+Package pdftex.def Info: ./img/tutorial.jpg  used on input line 77. on input li
+ne 77.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 77.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 80. o
+n input line 80.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+80.
+[10 <./img/vuoto.jpg> <./img/tutorial.jpg>]
+<./img/add.png, id=218, 51.19125pt x 43.66313pt>
+File: ./img/add.png Graphic file (type png)
+<use ./img/add.png>
+Package pdftex.def Info: ./img/add.png  used on input line 90. on input line 90
+.
+Package pdftex.def Info: Requested size: 51.19112pt x 43.66301pt on input line 
+90.
+<./img/select.png, id=220, 50.68938pt x 43.66313pt>
+File: ./img/select.png Graphic file (type png)
+<use ./img/select.png>
+Package pdftex.def Info: ./img/select.png  used on input line 92. on input line
+ 92.
+Package pdftex.def Info: Requested size: 50.68924pt x 43.66301pt on input line 
+92.
+<./img/cestino.png, id=221, 50.68938pt x 41.65562pt>
+File: ./img/cestino.png Graphic file (type png)
+<use ./img/cestino.png>
+Package pdftex.def Info: ./img/cestino.png  used on input line 93. on input lin
+e 93.
+Package pdftex.def Info: Requested size: 50.68924pt x 41.65552pt on input line 
+93.
+
+Underfull \hbox (badness 1259) in paragraph at lines 93--94
+[]|\OT1/cmr/m/n/10.95 Pulsante che per-met-te di eli-mi-na-re gli ar-ti-co-li s
+e-le-zio-na-ti. La pro-ce-du-ra di
+ []
+
+<./img/nuovoDocumento.png, id=223, 51.19125pt x 43.66313pt>
+File: ./img/nuovoDocumento.png Graphic file (type png)
+<use ./img/nuovoDocumento.png>
+Package pdftex.def Info: ./img/nuovoDocumento.png  used on input line 95. on in
+put line 95.
+Package pdftex.def Info: Requested size: 51.19112pt x 43.66301pt on input line 
+95.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 100. 
+on input line 100.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+100.
+[11 <./img/add.png> <./img/select.png> <./img/cestino.png> <./img/nuovoDocument
+o.png>]
+<./img/modal.jpg, id=233, 1084.05pt x 2288.55pt>
+File: ./img/modal.jpg Graphic file (type jpg)
+<use ./img/modal.jpg>
+Package pdftex.def Info: ./img/modal.jpg  used on input line 106. on input line
+ 106.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 106.
+<./img/scan.jpg, id=234, 1084.05pt x 2208.25pt>
+File: ./img/scan.jpg Graphic file (type jpg)
+<use ./img/scan.jpg>
+Package pdftex.def Info: ./img/scan.jpg  used on input line 107. on input line 
+107.
+Package pdftex.def Info: Requested size: 146.73235pt x 298.87587pt on input lin
+e 107.
+<./img/modalInput.jpg, id=235, 1084.05pt x 2288.55pt>
+File: ./img/modalInput.jpg Graphic file (type jpg)
+<use ./img/modalInput.jpg>
+Package pdftex.def Info: ./img/modalInput.jpg  used on input line 108. on input
+ line 108.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 108.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 130. 
+on input line 130.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+130.
+[12 <./img/modal.jpg> <./img/scan.jpg> <./img/modalInput.jpg>]
+<./img/permesso.jpg, id=244, 1084.05pt x 2288.55pt>
+File: ./img/permesso.jpg Graphic file (type jpg)
+<use ./img/permesso.jpg>
+Package pdftex.def Info: ./img/permesso.jpg  used on input line 152. on input l
+ine 152.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 152.
+<./img/erroreScanCanc.jpg, id=245, 1084.05pt x 2288.55pt>
+File: ./img/erroreScanCanc.jpg Graphic file (type jpg)
+<use ./img/erroreScanCanc.jpg>
+Package pdftex.def Info: ./img/erroreScanCanc.jpg  used on input line 153. on i
+nput line 153.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 153.
+<./img/erroreCodiceNonPresente.jpg, id=246, 1084.05pt x 2288.55pt>
+File: ./img/erroreCodiceNonPresente.jpg Graphic file (type jpg)
+<use ./img/erroreCodiceNonPresente.jpg>
+Package pdftex.def Info: ./img/erroreCodiceNonPresente.jpg  used on input line 
+154. on input line 154.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 154.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 160. 
+on input line 160.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+160.
+[13 <./img/permesso.jpg> <./img/erroreScanCanc.jpg> <./img/erroreCodiceNonPrese
+nte.jpg>]
+<./img/erroreNonInserito.jpg, id=255, 1084.05pt x 2288.55pt>
+File: ./img/erroreNonInserito.jpg Graphic file (type jpg)
+<use ./img/erroreNonInserito.jpg>
+Package pdftex.def Info: ./img/erroreNonInserito.jpg  used on input line 178. o
+n input line 178.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 178.
+<./img/erroreArticolo.jpg, id=256, 1084.05pt x 2288.55pt>
+File: ./img/erroreArticolo.jpg Graphic file (type jpg)
+<use ./img/erroreArticolo.jpg>
+Package pdftex.def Info: ./img/erroreArticolo.jpg  used on input line 179. on i
+nput line 179.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 179.
+<./img/erroreArticoloPresente.jpg, id=257, 1084.05pt x 2288.55pt>
+File: ./img/erroreArticoloPresente.jpg Graphic file (type jpg)
+<use ./img/erroreArticoloPresente.jpg>
+Package pdftex.def Info: ./img/erroreArticoloPresente.jpg  used on input line 1
+80. on input line 180.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 180.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.189 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 189. 
+on input line 189.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+189.
+[14 <./img/erroreNonInserito.jpg> <./img/erroreArticolo.jpg> <./img/erroreArtic
+oloPresente.jpg>]
+<./img/erroreElim.jpg, id=265, 1084.05pt x 2288.55pt>
+File: ./img/erroreElim.jpg Graphic file (type jpg)
+<use ./img/erroreElim.jpg>
+Package pdftex.def Info: ./img/erroreElim.jpg  used on input line 213. on input
+ line 213.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 213.
+<./img/confermaCanc.jpg, id=266, 1084.05pt x 2288.55pt>
+File: ./img/confermaCanc.jpg Graphic file (type jpg)
+<use ./img/confermaCanc.jpg>
+Package pdftex.def Info: ./img/confermaCanc.jpg  used on input line 214. on inp
+ut line 214.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 214.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218  \newpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 218. 
+on input line 218.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+218.
+[15 <./img/erroreElim.jpg> <./img/confermaCanc.jpg>]
+<./img/confermaMod.jpg, id=277, 1084.05pt x 2288.55pt>
+File: ./img/confermaMod.jpg Graphic file (type jpg)
+<use ./img/confermaMod.jpg>
+Package pdftex.def Info: ./img/confermaMod.jpg  used on input line 232. on inpu
+t line 232.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 232.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 236. 
+on input line 236.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+236.
+[16 <./img/confermaMod.jpg>]
+<./img/modalFinale.jpg, id=285, 1084.05pt x 2288.55pt>
+File: ./img/modalFinale.jpg Graphic file (type jpg)
+<use ./img/modalFinale.jpg>
+Package pdftex.def Info: ./img/modalFinale.jpg  used on input line 242. on inpu
+t line 242.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 242.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 		\end{enumerate}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 261. 
+on input line 261.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+261.
+[17 <./img/modalFinale.jpg>]
+<./img/data.jpg, id=295, 1084.05pt x 2288.55pt>
+File: ./img/data.jpg Graphic file (type jpg)
+<use ./img/data.jpg>
+Package pdftex.def Info: ./img/data.jpg  used on input line 271. on input line 
+271.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 271.
+<./img/confermaDoc.jpg, id=296, 1084.05pt x 2288.55pt>
+File: ./img/confermaDoc.jpg Graphic file (type jpg)
+<use ./img/confermaDoc.jpg>
+Package pdftex.def Info: ./img/confermaDoc.jpg  used on input line 272. on inpu
+t line 272.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 272.
+<./img/confermaOrd.jpg, id=297, 1084.05pt x 2288.55pt>
+File: ./img/confermaOrd.jpg Graphic file (type jpg)
+<use ./img/confermaOrd.jpg>
+Package pdftex.def Info: ./img/confermaOrd.jpg  used on input line 273. on inpu
+t line 273.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 273.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.280 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 280. 
+on input line 280.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+280.
+[18 <./img/data.jpg> <./img/confermaDoc.jpg> <./img/confermaOrd.jpg>]
+<./img/notePresenti.jpg, id=303, 1084.05pt x 2288.55pt>
+File: ./img/notePresenti.jpg Graphic file (type jpg)
+<use ./img/notePresenti.jpg>
+Package pdftex.def Info: ./img/notePresenti.jpg  used on input line 286. on inp
+ut line 286.
+Package pdftex.def Info: Requested size: 146.72089pt x 256.07141pt on input lin
+e 286.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.310 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 310. 
+on input line 310.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+310.
+[19 <./img/notePresenti.jpg>]
+<./img/paginaInsMod.jpg, id=311, 1084.05pt x 2288.55pt>
+File: ./img/paginaInsMod.jpg Graphic file (type jpg)
+<use ./img/paginaInsMod.jpg>
+Package pdftex.def Info: ./img/paginaInsMod.jpg  used on input line 314. on inp
+ut line 314.
+Package pdftex.def Info: Requested size: 195.63815pt x 413.00377pt on input lin
+e 314.
+File: ./img/notePresenti.jpg Graphic file (type jpg)
+<use ./img/notePresenti.jpg>
+Package pdftex.def Info: ./img/notePresenti.jpg  used on input line 315. on inp
+ut line 315.
+Package pdftex.def Info: Requested size: 195.63815pt x 413.00377pt on input lin
+e 315.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.319 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 319. 
+on input line 319.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+319.
+[20 <./img/paginaInsMod.jpg>]
+<./img/erroreQta.jpg, id=316, 1084.05pt x 2288.55pt>
+File: ./img/erroreQta.jpg Graphic file (type jpg)
+<use ./img/erroreQta.jpg>
+Package pdftex.def Info: ./img/erroreQta.jpg  used on input line 323. on input 
+line 323.
+Package pdftex.def Info: Requested size: 195.63815pt x 413.00377pt on input lin
+e 323.
+<./img/erroreQta2.jpg, id=317, 1084.05pt x 2288.55pt>
+File: ./img/erroreQta2.jpg Graphic file (type jpg)
+<use ./img/erroreQta2.jpg>
+Package pdftex.def Info: ./img/erroreQta2.jpg  used on input line 324. on input
+ line 324.
+Package pdftex.def Info: Requested size: 195.63815pt x 413.00377pt on input lin
+e 324.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.328 \newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 328. 
+on input line 328.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+328.
+[21 <./img/erroreQta.jpg> <./img/erroreQta2.jpg>])
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 	\newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 32. o
+n input line 32.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+32.
+[22] (sections/mail.tex
+<./img/templatemail.jpg, id=326, 1084.05pt x 2288.55pt>
+File: ./img/templatemail.jpg Graphic file (type jpg)
+<use ./img/templatemail.jpg>
+Package pdftex.def Info: ./img/templatemail.jpg  used on input line 14. on inpu
+t line 14.
+Package pdftex.def Info: Requested size: 146.72089pt x 256.07141pt on input lin
+e 14.
+)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 	\newpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 35. o
+n input line 35.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+35.
+[23 <./img/templatemail.jpg>] (sections/errori.tex
+<./img/erroreInternet.jpg, id=331, 1084.05pt x 2288.55pt>
+File: ./img/erroreInternet.jpg Graphic file (type jpg)
+<use ./img/erroreInternet.jpg>
+Package pdftex.def Info: ./img/erroreInternet.jpg  used on input line 14. on in
+put line 14.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 14.
+<./img/erroreInternet2.jpg, id=332, 1084.05pt x 2288.55pt>
+File: ./img/erroreInternet2.jpg Graphic file (type jpg)
+<use ./img/erroreInternet2.jpg>
+Package pdftex.def Info: ./img/erroreInternet2.jpg  used on input line 15. on i
+nput line 15.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 15.
+<./img/erroreDB.jpg, id=333, 1084.05pt x 2288.55pt>
+File: ./img/erroreDB.jpg Graphic file (type jpg)
+<use ./img/erroreDB.jpg>
+Package pdftex.def Info: ./img/erroreDB.jpg  used on input line 16. on input li
+ne 16.
+Package pdftex.def Info: Requested size: 146.73235pt x 309.7441pt on input line
+ 16.
+)
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 	\newpage
+              	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ../LatexLayout/moviORDER.png Graphic file (type png)
+<use ../LatexLayout/moviORDER.png>
+Package pdftex.def Info: ../LatexLayout/moviORDER.png  used on input line 38. o
+n input line 38.
+Package pdftex.def Info: Requested size: 30.11119pt x 30.11119pt on input line 
+38.
+[24 <./img/erroreInternet.jpg> <./img/erroreInternet2.jpg> <./img/erroreDB.jpg>
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
+ (ManualeUtente.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
+Package rerunfilecheck Info: File `ManualeUtente.out' has not changed.
+(rerunfilecheck)             Checksum: DC2D75FDDEDA15176B12CFA5B10482FA;1632.
+ ) 
+Here is how much of TeX's memory you used:
+ 11659 strings out of 493312
+ 170845 string characters out of 3138898
+ 278520 words of memory out of 3000000
+ 14847 multiletter control sequences out of 15000+200000
+ 10195 words of font info for 35 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 45i,16n,43p,873b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\tomma\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+tcrm1095.pk> <C:\Users\tomma\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\tcbi1095.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on ManualeUtente.pdf (24 pages, 6973463 bytes).
+PDF statistics:
+ 389 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 357 words of extra memory for PDF output out of 10000 (max. 10000000)
+

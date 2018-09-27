@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;moviORDER/WebContent/WEB-INF/classes/servlet/GetArticleDesc.java&apos; to &apos;GetArticleDescNote.java&apos;" description="Rename resource &apos;GetArticleDesc.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/classes/servlet/GetArticleDesc.java" name="GetArticleDescNote.java" stamp="1531917121786" updateReferences="true"/>
+</session>

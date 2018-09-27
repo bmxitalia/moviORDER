@@ -1,0 +1,12 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {figure}{\numberline {1}{\ignorespaces Architettura del prodotto moviORDER{}\relax }}{9}{figure.caption.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Diagramma della classe SchedulingConfigurer}}{9}{figure.caption.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Diagramma del package actions}}{11}{figure.caption.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Diagramma del package alerts}}{13}{figure.caption.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Diagramma del sottopackage verifiers}}{13}{figure.caption.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Diagramma del package databases}}{16}{figure.caption.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Diagramma del package dispatchers}}{17}{figure.caption.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Diagramma del sottopackage metrics}}{18}{figure.caption.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Diagramma del package operators}}{21}{figure.caption.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Diagramma del package strategies}}{23}{figure.caption.10}

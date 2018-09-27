@@ -1,0 +1,43 @@
+%%%%%%%%%%%%%%
+%  FUNZIONI  %
+%%%%%%%%%%%%%%
+
+% Serve a dare la giusta formattazione alle parole presenti nel glossario
+% il nome del comando \glossary è già usato da LaTeX
+% \newcommand{\glossaryItem}[1]{\textit{#1\ped{\ped{G}}}}
+% \newcommand{\glossaryItem}[1]{\textit{#1}{\small$_G$}}
+\newcommand{\glossaryItem}[1]{%
+    \lowercase{\ifcsname @glsterms@\detokenize{#1}\endcsname}%
+        #1%
+    \else%
+        \lowercase{\expandafter\gdef\csname @glsterms@\detokenize{#1}\endcsname{x}}%
+        \emph{#1}\ped{G}%
+    \fi%
+}
+
+% Serve a dare la giusta formattazione per indicare il tipo di verbale in cui e' stata presa una decisione
+% Uso: \verbalRI{data}{punto}
+% RI = Riunione Interna
+\newcommand{\verbalRI}[2]{\textit{RI-#1-#2}}
+% RE = Riunione Esterna
+\newcommand{\verbalRE}[2]{\textit{RE-#1-#2}}
+
+% Serve a dare la giusta formattazione al codice inline
+\newcommand{\code}[1]{\flextt{\texttt{#1}}}
+
+% Serve a dare la giusta formattazione a tutte le path presenti nei documenti
+\newcommand{\file}[1]{\flextt{\texttt{#1}}}
+
+% Permette di andare a capo all'interno di una cella in una tabella
+\newcommand{\multiLineCell}[2][c]{
+    \renewcommand{\arraystretch}{1}
+    \begin{tabular}[#1]{@{}l@{}}
+      #2
+    \end{tabular}
+}
+
+% Serve per creare un paragrafo il cui contenuto lasci un interlinea dal titolo del paragrafo.
+% Di default il contenuto del paragrafo inizia subito alla destra del titolo del paragrafo
+\newcommand{\myparagraph}[1]{\paragraph{#1}\mbox{} \mbox{}}
+
+\newcommand{\mysubparagraph}[1]{\subparagraph{#1}\mbox{} \mbox{}}

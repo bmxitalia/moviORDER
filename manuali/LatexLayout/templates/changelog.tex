@@ -1,0 +1,21 @@
+% Genera il changelog
+\newcommand{\changelog}[1]{
+    \section*{Registro delle modifiche}
+
+    	\renewcommand{\arraystretch}{1.5}
+    	\rowcolors{2}{gray!20}{gray!5}
+        \begin{longtable}{ l | c | c | p{5.6cm} | c }
+		        \rowcolor{gray!50}
+		
+		        \textbf{Versione} 	& 
+		        \textbf{Ruolo} 		& 
+		        \textbf{Nominativo} & 
+		        \centering\textbf{Descrizione} & 
+        		\textbf{Data} 
+
+				\hline                    
+        	\endhead
+        	#1
+        \end{longtable}
+		\hiderowcolors 
+}

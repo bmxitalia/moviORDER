@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+        <title>Inserimento/modifica articoli | moviORDER</title>
+        <link rel="stylesheet" href="css/inserimentoModificaArticolo.css" type="text/css" />
+        <link rel="stylesheet" href="css/general.css" type="text/css" />
+    </head>
+    <body onload="setDescrizioneQtaNote()">
+		<div id="loading"></div>
+    	<h3 id="articleDesc"></h3>
+    	<button type="button" id="infoButton" onclick="displayArticleNote()">Info articolo</button>
+    	<div id="qta">
+    		<label for="selectQta"><b>Quantità:</b></label>
+			<input id="selectQta" type="number"> </input>
+    	</div>
+    	
+    	<div id="not">
+    		<label for="note"><b>Note:</b></label>
+			<textarea rows="10" cols="40" placeholder="Facoltativo..." id="note"></textarea>
+    	</div>
+		
+		<div id="footer">
+			<button type="button" id="okButton" onclick="confirmInsert()">OK</button>
+			<button type="button" id="cancelButton" onclick="cancelInsert()">Annulla</button>
+		</div>
+    	<script type="text/javascript" src="js/inserimentoModificaArticolo.js"></script>
+    	<script type="text/javascript" src="cordova.js"></script>
+    </body>
+</html>

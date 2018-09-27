@@ -1,0 +1,66 @@
+package servlet;
+
+import java.io.IOException;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import dbConnection.DatabaseConnection;
+import utility.GetParam;
+
+/**
+ * Servlet implementation class CheckConnectionURL
+ */
+@WebServlet("/CheckConnectionURL")
+public class CheckConnectionURL extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public CheckConnectionURL() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String codiceAzienda = request.getParameter("codAz");
+		DatabaseConnection dbConnect = new DatabaseConnection(GetParam.getUrlCommonDB());
+		try {
+			dbConnect.connectToDB();
+		}catch(SQLException e) {
+			e.printStackTrace();
+		}
+		String query = "select Path from Aziende where CodAzienda='"+codiceAzienda+"'";
+		ResultSet rs = dbConnect.doQuery(query);
+		String path = "";
+		try {
+			while(rs.next()) {
+				path = rs.getString(1);
+			}
+		}catch(SQLException e) {
+			e.printStackTrace();
+		}
+		
+		if(path != null || path != "") {
+			dbConnect.closeConnection();
+			dbConnect = new DatabaseConnection(path);
+			try {
+				dbConnect.connectToDB();
+			}catch(SQLException e) {
+				e.printStackTrace();
+				
+			}
+		}else {
+			
+		}
+	}
+
+}

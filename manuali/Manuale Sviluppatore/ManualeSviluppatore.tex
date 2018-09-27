@@ -1,0 +1,37 @@
+\input{../LatexLayout/global.tex}
+\input{./res/local.tex}
+\input{./res/listings_styles.tex}
+
+\title{\ManualeSviluppatore}
+\author{\GroupName}
+
+\date{27 Aprile 2018}
+
+\begin{document}
+
+	\frenchspacing
+
+	\makeFrontPage
+	
+	\tableofcontents
+	
+	\renewcommand{\listfigurename}{Immagini}
+	\listoffigures
+	\newpage
+	
+	\input{./sections/introduzione.tex}
+	\newpage
+	
+	\input{./sections/requisitiSistema.tex}
+	\newpage
+	
+	\input{./sections/configurazione.tex}
+	\newpage
+	
+	\input{./sections/architettura.tex}
+	\newpage
+	
+	\input{./sections/estensione.tex}
+
+\end{document}
+

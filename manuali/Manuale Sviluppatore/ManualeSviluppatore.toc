@@ -1,0 +1,54 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {1}Introduzione}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Scopo del documento}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Scopo del prodotto}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Premessa}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Informazioni utili}{4}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Reperimento del codice}{4}{subsection.1.5}
+\contentsline {section}{\numberline {2}Requisiti di sistema}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Requisiti software}{5}{subsection.2.1}
+\contentsline {section}{\numberline {3}Installazione e avvio}{5}{section.3}
+\contentsline {section}{\numberline {4}Configurazione ambiente di lavoro}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Configurazione del server Elasticsearch}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Configurazione del database}{6}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Database disponibili}{7}{subsubsection.4.2.1}
+\contentsline {paragraph}{\numberline {4.2.1.1}Elasticsearch}{7}{paragraph.4.2.1.1}
+\contentsline {subsection}{\numberline {4.3}Configurazione del server mail}{7}{subsection.4.3}
+\contentsline {section}{\numberline {5}Architettura}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Rappresentazione dell'architettura}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Classe SchedulingConfigurer}{9}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Descrizione dei packages}{11}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}actions}{11}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}alerts}{13}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}databases}{16}{subsubsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.4}dispatchers}{17}{subsubsection.5.3.4}
+\contentsline {subsubsection}{\numberline {5.3.5}events}{18}{subsubsection.5.3.5}
+\contentsline {subsubsection}{\numberline {5.3.6}jobs}{18}{subsubsection.5.3.6}
+\contentsline {subsubsection}{\numberline {5.3.7}models}{20}{subsubsection.5.3.7}
+\contentsline {subsubsection}{\numberline {5.3.8}operators}{21}{subsubsection.5.3.8}
+\contentsline {subsubsection}{\numberline {5.3.9}publishers}{22}{subsubsection.5.3.9}
+\contentsline {subsubsection}{\numberline {5.3.10}repositories}{22}{subsubsection.5.3.10}
+\contentsline {subsubsection}{\numberline {5.3.11}strategies}{23}{subsubsection.5.3.11}
+\contentsline {subsubsection}{\numberline {5.3.12}templators}{24}{subsubsection.5.3.12}
+\contentsline {subsubsection}{\numberline {5.3.13}utils}{24}{subsubsection.5.3.13}
+\contentsline {section}{\numberline {6}Estensione delle funzionalit\IeC {\`a}}{25}{section.6}
+\contentsline {subsection}{\numberline {6.1}Implementare un nuovo database}{25}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Realizzazione dell'implementazione}{25}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Aggiunta del database all'elenco dei driver disponibili}{25}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}Implementare un nuovo operatore}{26}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Realizzazione dell'operatore}{26}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Registrare l'operatore}{26}{subsubsection.6.2.2}
+\contentsline {subsection}{\numberline {6.3}Implementare una nuova strategia}{27}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Realizzazione della strategia}{27}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}Registrare la strategia}{27}{subsubsection.6.3.2}
+\contentsline {subsection}{\numberline {6.4}Implementare un nuovo valutatore per gli alert}{28}{subsection.6.4}
+\contentsline {subsubsection}{\numberline {6.4.1}Realizzare un nuovo valutatore per gli alert}{28}{subsubsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.2}Registrare un nuovo valutatore per gli alert}{28}{subsubsection.6.4.2}
+\contentsline {subsection}{\numberline {6.5}Implementare un nuovo verificatore per un alert}{28}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}Realizzare un nuovo verificatore per gli alert}{28}{subsubsection.6.5.1}
+\contentsline {subsubsection}{\numberline {6.5.2}Registrare un nuovo verificatore per gli alert}{29}{subsubsection.6.5.2}
+\contentsline {subsection}{\numberline {6.6}Implementare una nuova azione di rimedio}{29}{subsection.6.6}
+\contentsline {subsubsection}{\numberline {6.6.1}Realizzare una nuova azione di rimedio}{29}{subsubsection.6.6.1}
+\contentsline {subsubsection}{\numberline {6.6.2}Registrare una nuova azione di rimedio}{29}{subsubsection.6.6.2}
+\contentsline {section}{\numberline {A}Glossario}{31}{appendix.Alph1}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+        <title>Visualizza articoli | moviORDER</title>
+        <link rel="stylesheet" href="css/visualizzazioneArticoli.css" type="text/css" />
+        <link rel="stylesheet" href="css/general.css" type="text/css" />
+    </head>
+    <body onload="disableBack()">
+		<div id="loading"></div>
+    	<div class="container">
+    		<div class="title">
+    			<h3 id="pageTitle"></h3>
+    		</div>
+    		<div class="twoButton">		
+    			<button type="button" id="tutorialButton" class="headerButton" onclick="displayTutorial()">Tutorial</button>
+    			<button type="button" class="headerButton" onclick="logout()">Logout</button>
+    		</div>
+    		<div class="buttonL">
+    			<button id="add" onclick="showAddModal()"></button>
+    			<button id="selectAll" onclick="selectAll()"></button>
+    			<button id="basket" onclick="deleteSelected()"></button>
+    			<button id="confirm" onclick="openConfirmModal()"></button>
+    		</div>
+    		<div id="myModal" class="modal">
+				<!-- Modal content -->
+				  <div class="modal-content">
+				    <button id="cancel" onclick="deleteModal()" class="modalButton"></button>
+				    <button id="camera" class="modalButton" onclick="openCamera()"></button>
+				    <button id="code" onclick="insertCode()" class="modalButton"></button>
+				    <div id="insertCode">
+				    	<input type="text" id="inputBox" placeholder="Inserire il codice articolo..." id="inputBox" />
+				    	<button type="submit" id="inputButton" onclick="addNewArticle()">OK</button>
+				    </div>
+				  </div>
+			</div>
+			
+			<div id="confirmModal" class="modal">
+				<!-- Modal content -->
+				<div class="modal-content" id="myModalCnt">
+				  <div id="modalBtn">
+				    <button id="cancelOrder" onclick="deleteConfirmModal()" class="modalButton"></button>
+				    <button id="confirmOrder" class="modalButton" onclick="confirmProcedure()"></button>
+				  </div>
+				    <div id="modalForm">
+				    	<label for="cliente" class="lbl"><b>Cliente:</b></label>
+				    	<input type="text" id="cliente" name="cliente" class="inp" readonly/>
+				    	<label for="documento" class="lbl"><b>Documento:</b></label>
+				    	<input type="text" id="documento" name="documento"  class="inp" readonly/>
+				    	<label for="data" class="lbl"><b>Data:</b></label>
+				    	<input type="date" id="data" name="data" class="inp" />
+				    	<label for="noteM" id="noteL"><b>Note:</b></label>
+				    	<textarea id="noteM" name="note" rows="6" cols="40" placeholder="Facoltativo..."></textarea>
+				    </div>
+				  </div>
+				 </div>
+			
+    		<div id="ArticleTable">
+    			
+    		</div>
+    	</div>
+    	<script type="text/javascript" src="js/visualizzazioneArticoli.js"></script>
+    	<script type="text/javascript" src="cordova.js"></script>
+    </body>
+</html>

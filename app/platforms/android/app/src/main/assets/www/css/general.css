@@ -1,0 +1,47 @@
+body {
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	font-size: 1.5em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+	background-color: #275D71;
+	color: white;
+	border: 3px solid white;
+	border-radius: 7px;
+	font-size: 70%;
+	padding: 20px 20px;
+	font-weight: bold;
+}
+
+input {
+	font-size: 70%;
+}
+
+button:active {
+	color: #275D71;
+	background-color: white;
+	border-color: #275D71;
+}
+
+#loading {
+	width: 50px;
+	height: 50px;
+	border: 5px solid #ccc;
+	border-top-color: red;
+	border-radius: 100%;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+	animation: round 1s linear infinite;
+}
+
+@keyframes round {
+	from{transform: rotate(0deg)}
+	to{transform: rotate(360deg)}
+}

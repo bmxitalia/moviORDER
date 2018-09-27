@@ -1,0 +1,28 @@
+\section[Configurazione del server]{Configurazione dell'ambiente di lavoro}
+\label{settings}
+
+	\subsection{Premessa}
+	
+		Per il funzionamento del backend dell'applicazione è necessario scaricare il server Apache TomCat e installarlo sul server dove si vuole mandare in esecuzione il servizio web. 
+		
+	\subsection{Configurazione TomCat}
+	
+		Per il corretto funzionamento del servizio web è necessario configurare TomCat. La prima cosa dare fare è settare la porta su cui si vuole installare il servizio. Solitamente TomCat gira sulla porta 8080 ma bisogna tenere conto che potrebbe essere occupata. Se la porta risulta occupata è necessario cambiare la configurazione di TomCat in seguito all'installazione. Per cambiare la configurazione è  necessario accedere alla cartella d'installazione di TomCat, entrare nella cartella \textbf{/conf} e aprire il file \textit{server.xml}. Cercare il tag Connector e sull'attributo port settare la porta su cui si desidera far girare TomCat.
+		
+	\subsection{Configurazione servizio web}
+	
+		Una volta installato TomCat si può procedere con la configurazione del servizio web. È richiesto un file \textit{.war} contenente i file del servizio. Inserire il file \textit{.war} dentro \textit{/webapps} nella cartella di installazione di TomCat.
+		
+	\subsection{Esecuzione del servizio web}
+	
+		Per mandare in esecuzione il servizio web è sufficiente mandare in esecuzione il server TomCat. Per eseguire TomCat bisogna accedere alla cartella \textit{/bin} della cartella d'installazione di TomCat ed eseguire \textit{tomcat7.exe}. 
+		
+		Una volta che il servizio è in esecuzione, è possibile utilizzare correttamente l'applicazione.
+		
+	\subsection{Problemi di TomCat}
+	
+		Dopo l'avvio di TomCat possono accadere due tipologie di problemi: 
+			\begin{itemize}
+				\item La console informa che TomCat non è riuscito ad andare in esecuzione sulla porta specificata perché è occupata. In questo caso occorre riavviare il server e ritentare;
+				\item Provando ad effettuare richieste si nota che l'applicazione non risponde. Potrebbe essere che la porta selezionata è bloccata dal firewall e quindi moviORDER non riesce ad accedere al servizio web. Occorre sbloccare la porta nelle impostazioni del firewall. Se questa soluzione non dovesse andare a buon fine è necessario bloccare il firewall. 
+			\end{itemize}

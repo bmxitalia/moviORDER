@@ -1,0 +1,53 @@
+\newcommand{\makeFrontPage}{
+    % Declare new goemetry for the title page only.
+    \newgeometry{top=4cm}
+
+    \begin{titlepage}
+        \begin{center}
+            
+            \centerline{\includegraphics[scale=0.2]{../LatexLayout/moviORDER.png}}
+                
+            \vspace{1cm}
+            
+            \begin{Huge}
+                \textbf{\DocTitle{}}
+            \end{Huge}
+    
+            \textbf{\emph{\Tommaso \, \texttwelveudash{} \, Applicazione moviORDER}} \\
+            \GroupEmail
+            \vspace{1cm}
+    
+            \bgroup
+            \renewcommand{\arraystretch}{1.5}
+            \begin{tabular}{ r | l }
+    
+                % differenzia a seconda che \DocVersion{} stampi testo o no
+                \setbox0=\hbox{\DocVersion{}\unskip}
+                \ifdim\wd0=0pt
+                    \\
+                \else
+                    \textbf{Versione} & \multiLineCell[t]{\DocVersion{}} \\
+                \fi
+    
+                \textbf{Redazione} & \multiLineCell[t]{\DocRedazione{}} \\
+                \textbf{Verifica} & \multiLineCell[t]{\DocVerifica{}} \\
+                \textbf{Approvazione} & \multiLineCell[t]{\DocApprovazione{}} \\
+                \textbf{Uso} & \multiLineCell[t]{\DocUso{}} \\
+                \textbf{Distribuzione} & \multiLineCell[t]{\DocDistribuzione{}} \\
+
+            \end{tabular}
+            \egroup
+                
+            \vspace{22pt}
+    
+            \textbf{Descrizione} \\
+            \DocDescription{}
+    
+        \end{center}
+    \end{titlepage}
+    
+    % Ends the declared geometry for the titlepage
+    \restoregeometry
+
+    \setcounter{page}{2}
+}
